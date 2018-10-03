@@ -5,11 +5,11 @@
             "sourcePath": "c:\\dev\\myeasy\\force-app",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1538538678755,
+            "modifiedTime": 1538543243517,
             "changeTime": 1538538678755,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -24,7 +24,7 @@
             "changeTime": 1538538678755,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,14 +32,14 @@
     [
         "c:\\dev\\myeasy\\force-app\\main\\default",
         {
+            "state": "u",
             "sourcePath": "c:\\dev\\myeasy\\force-app\\main\\default",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1538540909986,
-            "changeTime": 1538540909986,
-            "contentHash": "dd490d3c462c3c8b41a169355ab7677bd3c9f3d6",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 0,
+            "modifiedTime": 1538548848423,
+            "changeTime": 1538548848423,
+            "contentHash": "d786f897b6a22488143ef1dd6ae377830e1050dc"
         }
     ],
     [
@@ -52,7 +52,7 @@
             "changeTime": 1538538678755,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -67,7 +67,7 @@
             "changeTime": 1538538765450,
             "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
@@ -599,10 +599,10 @@
             "sourcePath": "c:\\dev\\myeasy\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 23222,
-            "modifiedTime": 1538540980066,
-            "changeTime": 1538540980066,
-            "contentHash": "af327c152106f870c4730fbd21d8c989451e0360"
+            "size": 24782,
+            "modifiedTime": 1538548848377,
+            "changeTime": 1538548848377,
+            "contentHash": "aa13c650b495ae30ba7a77e40486357f98b34b8f"
         }
     ],
     [
@@ -612,10 +612,10 @@
             "sourcePath": "c:\\dev\\myeasy\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 9157,
-            "modifiedTime": 1538540980076,
-            "changeTime": 1538540980076,
-            "contentHash": "28d83a719bb208b75fd23c8d572950c1e9bce585"
+            "size": 10719,
+            "modifiedTime": 1538548848391,
+            "changeTime": 1538548848391,
+            "contentHash": "861370a2a85f3b86ad3242210c97cd18780670f8"
         }
     ],
     [
@@ -625,10 +625,10 @@
             "sourcePath": "c:\\dev\\myeasy\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 8821,
-            "modifiedTime": 1538540980089,
-            "changeTime": 1538540980089,
-            "contentHash": "48ef24d409fd16b0a65bc48cdc103b32e10b0abb"
+            "size": 10383,
+            "modifiedTime": 1538548848402,
+            "changeTime": 1538548848402,
+            "contentHash": "c3dd3d92ecc8c352530415f96f933d7da3e77b56"
         }
     ],
     [
@@ -638,10 +638,10 @@
             "sourcePath": "c:\\dev\\myeasy\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 8817,
-            "modifiedTime": 1538540980098,
-            "changeTime": 1538540980098,
-            "contentHash": "432735a856fe91c2811517cff66bb3fb786c823a"
+            "size": 10379,
+            "modifiedTime": 1538548848410,
+            "changeTime": 1538548848410,
+            "contentHash": "b6f2257d45d3ac172121c2443ec32b514550ed68"
         }
     ],
     [
@@ -673,14 +673,14 @@
     [
         "c:\\dev\\myeasy\\force-app\\main\\default\\objects",
         {
+            "state": "u",
             "sourcePath": "c:\\dev\\myeasy\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1538540619179,
-            "changeTime": 1538540619179,
-            "contentHash": "f4015d2563d7911e017ed4578526531514ef8c6b",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 0,
+            "modifiedTime": 1538548848311,
+            "changeTime": 1538548848311,
+            "contentHash": "bf16ba11d9284d660bf9e104b0afe0bafd7e2588"
         }
     ],
     [
@@ -777,14 +777,14 @@
     [
         "c:\\dev\\myeasy\\force-app\\main\\default\\layouts",
         {
+            "state": "u",
             "sourcePath": "c:\\dev\\myeasy\\force-app\\main\\default\\layouts",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1538540619220,
-            "changeTime": 1538540619220,
-            "contentHash": "070f30c1a7eef9773d72892fe6f4e1e903d872a8",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 0,
+            "modifiedTime": 1538548848337,
+            "changeTime": 1538548848337,
+            "contentHash": "0ad7622f5de5a5f51acf6423052bf3a5ea0b934d"
         }
     ],
     [
@@ -821,22 +821,295 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1538540980035,
-            "changeTime": 1538540980035,
-            "contentHash": "71e2d5894bd19da616fb65672954a21bf9de6fc4"
+            "modifiedTime": 1538548848339,
+            "changeTime": 1538548848339,
+            "contentHash": "a1a3c3b675f3be961d8e3cf8e64bbfa73b7a4bef"
         }
     ],
     [
         "c:\\dev\\myeasy\\force-app\\main\\default\\tabs\\Reservation__c.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\dev\\myeasy\\force-app\\main\\default\\tabs\\Reservation__c.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 227,
             "modifiedTime": 1538540980035,
             "changeTime": 1538540980035,
-            "contentHash": "fc876039b38c08618da83097bcc770c2f8cc0346"
+            "contentHash": "fc876039b38c08618da83097bcc770c2f8cc0346",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\dev\\myeasy\\force-app\\main\\default\\permissionsets",
+        {
+            "sourcePath": "c:\\dev\\myeasy\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1538543028292,
+            "changeTime": 1538543028302,
+            "contentHash": "48101f54be047d2941f357e713fca6ba980b6a20",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\dev\\myeasy\\force-app\\main\\default\\permissionsets\\EasySpacesObjects.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\dev\\myeasy\\force-app\\main\\default\\permissionsets\\EasySpacesObjects.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8603,
+            "modifiedTime": 1538548848421,
+            "changeTime": 1538548848421,
+            "contentHash": "44fbab6b97c8bc93f65808a19df9bf877247a201"
+        }
+    ],
+    [
+        "c:\\dev\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\Customer_Fields__mdt.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\dev\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\Customer_Fields__mdt.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 189,
+            "modifiedTime": 1538548848315,
+            "changeTime": 1538548848315,
+            "contentHash": "0ec34745d73d214201519d4f8a57841f4d18a360"
+        }
+    ],
+    [
+        "c:\\dev\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_City__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\dev\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_City__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 395,
+            "modifiedTime": 1538548848318,
+            "changeTime": 1538548848318,
+            "contentHash": "ada6ccae9353762ea32372a9af05b1e3db136139"
+        }
+    ],
+    [
+        "c:\\dev\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Email__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\dev\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Email__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 682,
+            "modifiedTime": 1538548848321,
+            "changeTime": 1538548848321,
+            "contentHash": "3a8b971d1b2bf5458826a1fc463cd1292ed624b4"
+        }
+    ],
+    [
+        "c:\\dev\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Name__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\dev\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 678,
+            "modifiedTime": 1538548848324,
+            "changeTime": 1538548848324,
+            "contentHash": "e4f1df3e02d40f7ab5849f0de895b2628b5e7245"
+        }
+    ],
+    [
+        "c:\\dev\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_State__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\dev\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_State__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 397,
+            "modifiedTime": 1538548848327,
+            "changeTime": 1538548848327,
+            "contentHash": "443845b358ba1fef20224455bd30fe5df3721d36"
+        }
+    ],
+    [
+        "c:\\dev\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Status__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\dev\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 672,
+            "modifiedTime": 1538548848330,
+            "changeTime": 1538548848330,
+            "contentHash": "5c36e886f35e6c26c0f97c07da590ff509975cad"
+        }
+    ],
+    [
+        "c:\\dev\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Sobject_Type__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\dev\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Sobject_Type__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 549,
+            "modifiedTime": 1538548848333,
+            "changeTime": 1538548848333,
+            "contentHash": "77074a9a7043bdfbe4418f947d5d46c6245f89c2"
+        }
+    ],
+    [
+        "c:\\dev\\myeasy\\force-app\\main\\default\\layouts\\Customer_Fields__mdt-Customer Fields Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\dev\\myeasy\\force-app\\main\\default\\layouts\\Customer_Fields__mdt-Customer Fields Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3198,
+            "modifiedTime": 1538548848338,
+            "changeTime": 1538548848338,
+            "contentHash": "6a2a0f7e59d399a8f67a36b9e2d363676f9640a7"
+        }
+    ],
+    [
+        "c:\\dev\\myeasy\\force-app\\main\\default\\tabs\\Market__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\dev\\myeasy\\force-app\\main\\default\\tabs\\Market__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 221,
+            "modifiedTime": 1538548848340,
+            "changeTime": 1538548848340,
+            "contentHash": "99ad59b0f67ecf7d00cfef6ed7b06faa99ff7657"
+        }
+    ],
+    [
+        "c:\\dev\\myeasy\\force-app\\main\\default\\classes\\customerServices.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\dev\\myeasy\\force-app\\main\\default\\classes\\customerServices.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1538548848341,
+            "changeTime": 1538548848341,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5"
+        }
+    ],
+    [
+        "c:\\dev\\myeasy\\force-app\\main\\default\\classes\\customerServices.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\dev\\myeasy\\force-app\\main\\default\\classes\\customerServices.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1715,
+            "modifiedTime": 1538548848343,
+            "changeTime": 1538548848343,
+            "contentHash": "c9d4523cd11c9950c1fbf8c8e1799465b507aa7f"
+        }
+    ],
+    [
+        "c:\\dev\\myeasy\\force-app\\main\\default\\classes\\reservationManagerController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\dev\\myeasy\\force-app\\main\\default\\classes\\reservationManagerController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1538548848345,
+            "changeTime": 1538548848345,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5"
+        }
+    ],
+    [
+        "c:\\dev\\myeasy\\force-app\\main\\default\\classes\\reservationManagerController.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\dev\\myeasy\\force-app\\main\\default\\classes\\reservationManagerController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1773,
+            "modifiedTime": 1538548848346,
+            "changeTime": 1538548848346,
+            "contentHash": "2ee6a7535c6e87674f9eec2d56d4af75b6d93480"
+        }
+    ],
+    [
+        "c:\\dev\\myeasy\\force-app\\main\\default\\customMetadata\\Customer_Fields.Lead_Custom_Field.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\dev\\myeasy\\force-app\\main\\default\\customMetadata\\Customer_Fields.Lead_Custom_Field.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 980,
+            "modifiedTime": 1538548848426,
+            "changeTime": 1538548848426,
+            "contentHash": "8057568b882e59b9242205cf8925c2675ce1e4dc"
+        }
+    ],
+    [
+        "c:\\dev\\myeasy\\force-app\\main\\default\\customMetadata\\Customer_Fields.Contact_Customer_Field.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\dev\\myeasy\\force-app\\main\\default\\customMetadata\\Customer_Fields.Contact_Customer_Field.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1004,
+            "modifiedTime": 1538548848428,
+            "changeTime": 1538548848428,
+            "contentHash": "cb904146d091203662a108eb54709dda2e6e1244"
+        }
+    ],
+    [
+        "c:\\dev\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt",
+        {
+            "state": "u",
+            "sourcePath": "c:\\dev\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538548848315,
+            "changeTime": 1538548848315,
+            "contentHash": "e1b2731ee3f217f9c3cae2b1daba8b54db2c1a48"
+        }
+    ],
+    [
+        "c:\\dev\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields",
+        {
+            "state": "u",
+            "sourcePath": "c:\\dev\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538548848330,
+            "changeTime": 1538548848330,
+            "contentHash": "02b95b649e97ca8796cee9b0dbc2ab38723358e1"
+        }
+    ],
+    [
+        "c:\\dev\\myeasy\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "c:\\dev\\myeasy\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538548848346,
+            "changeTime": 1538548848346,
+            "contentHash": "db8d4fb2830b729e355c21338865355650835a05"
+        }
+    ],
+    [
+        "c:\\dev\\myeasy\\force-app\\main\\default\\customMetadata",
+        {
+            "state": "u",
+            "sourcePath": "c:\\dev\\myeasy\\force-app\\main\\default\\customMetadata",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538548848428,
+            "changeTime": 1538548848428,
+            "contentHash": "212e1fd9133fda08008015732335d0a6652e36a6"
         }
     ]
 ]
